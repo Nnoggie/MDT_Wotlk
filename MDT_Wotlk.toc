@@ -1,0 +1,10 @@
+## Interface: 100207
+## Title: MDT Wrath of the Lich King
+## Author: Nnoggie
+## Version: 1.0
+## Notes: MDT Plugin for Wrath of the Lich King
+## Dependencies: MythicDungeonTools
+
+locale.lua
+core.lua
+dungeons\load_dungeons.xml
